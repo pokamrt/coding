@@ -85,6 +85,9 @@ function list(path){
 	    <div class="mdui-col-sm-2 mdui-text-right">
 	     File Size
 	    </div> 
+		<div class="mdui-col-sm-2 mdui-text-right">
+	     Time
+	    </div> 
 	    </li> 
 	  </ul> 
 	 </div> 
